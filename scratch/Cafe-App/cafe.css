@@ -20,6 +20,13 @@ hr{
    padding: 40px;
  
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    
+  }
 /* This is how to target multiple class*/
 .flavor , .dessert{
     text-align: left;
